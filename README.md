@@ -1,5 +1,5 @@
 <h1 align="center">The Coffee Corner 😊</h1>  
 
 
-![result](Assignment_2/Final_Results/Result_1.jpg)
-![result](Assignment_2/Final_Results/Result_2.jpg)
+![result](Assignment__2/Final_Result_/Final_result-1.jpg)
+![result](Assignment__2/Final_Result_/Final_result-2.jpg)
